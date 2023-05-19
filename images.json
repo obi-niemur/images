@@ -4,161 +4,161 @@
         "id": "1",
         "isFavorite": false,
         "gender": "men",
-        "price": "10.00$"
+        "price": "10.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic2.png?raw=true",
         "id": "2",
         "isFavorite": false,
         "gender": "men",
-        "price": "11.00$"
+        "price": "11.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic3.png?raw=true",
         "id": "3",
         "isFavorite": false,
         "gender": "men",
-        "price": "9.90$"
+        "price": "9.90"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic4.png?raw=true",
         "id": "4",
         "isFavorite": false,
         "gender": "men",
-        "price": "9.99$"
+        "price": "9.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic5.png?raw=true",
         "id": "5",
         "isFavorite": false,
         "gender": "men",
-        "price": "8.00$"
+        "price": "8.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic6.png?raw=true",
         "id": "6",
         "isFavorite": false,
         "gender": "men",
-        "price": "20.00$"
+        "price": "20.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic7.png?raw=true",
         "id": "7",
         "isFavorite": false,
         "gender": "men",
-        "price": "11.00$"
+        "price": "11.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic8.png?raw=true",
         "id": "8",
         "isFavorite": false,
         "gender": "men",
-        "price": "15.00$"
+        "price": "15.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic9.png?raw=true",
         "id": "9",
         "isFavorite": false,
         "gender": "men",
-        "price": "13.00$"
+        "price": "13.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic10.png?raw=true",
         "id": "10",
         "isFavorite": false,
         "gender": "men",
-        "price": "17.00$"
+        "price": "17.00"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic11.png?raw=true",
         "id": "11",
         "isFavorite": false,
         "gender": "men",
-        "price": "10.99$"
+        "price": "10.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/mpic12.png?raw=true",
         "id": "12",
         "isFavorite": false,
         "gender": "men",
-        "price": "15.99$"
+        "price": "15.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic1.png?raw=true",
         "id": "13",
         "isFavorite": false,
         "gender": "women",
-        "price": "5.99$"
+        "price": "5.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic2.png?raw=true",
         "id": "14",
         "isFavorite": false,
         "gender": "women",
-        "price": "11.99$"
+        "price": "11.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic3.png?raw=true",
         "id": "15",
         "isFavorite": false,
         "gender": "women",
-        "price": "8.99$"
+        "price": "8.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic4.png?raw=true",
         "id": "16",
         "isFavorite": false,
         "gender": "women",
-        "price": "25.99$"
+        "price": "25.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic5.png?raw=true",
         "id": "17",
         "isFavorite": false,
         "gender": "women",
-        "price": "12.99$"
+        "price": "12.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic6.png?raw=true",
         "id": "18",
         "isFavorite": false,
         "gender": "women",
-        "price": "14.99$"
+        "price": "14.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic7.png?raw=true",
         "id": "19",
         "isFavorite": false,
         "gender": "women",
-        "price": "12.99$"
+        "price": "12.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic8.png?raw=true",
         "id": "20",
         "isFavorite": false,
         "gender": "women",
-        "price": "10.99$"
+        "price": "10.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic9.png?raw=true",
         "id": "21",
         "isFavorite": false,
         "gender": "women",
-        "price": "15.99$"
+        "price": "15.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic10.png?raw=true",
         "id": "22",
         "isFavorite": false,
         "gender": "women",
-        "price": "19.99$"
+        "price": "19.99"
     },
     {
         "url": "https://github.com/obi-niemur/images/blob/master/wpic11.png?raw=true",
         "id": "23",
         "isFavorite": false,
         "gender": "women",
-        "price": "20.99$"
+        "price": "20.99"
     },
 
     {
@@ -166,6 +166,6 @@
         "id": "24",
         "isFavorite": false,
         "gender": "women",
-        "price": "13.99$"
+        "price": "13.99"
     }
 ]
